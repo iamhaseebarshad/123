@@ -1,22 +1,31 @@
 # 123
 
-123
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## 🛠 Technologies Used
-JavaScript
+## Description
 
-## 📦 Installation
+asd
+
+## Installation
 
 ```bash
-git clone https://github.com/iamhaseebarshad/123.git
-cd 123
 npm install
 ```
 
-## 📄 License
+## Usage
+
+```bash
+npm start
+```
+
+## Tags
+
+- laravel
+
+## Author
+
+[@iamhaseebarshad](https://github.com/iamhaseebarshad)
+
+## License
 
 This project is licensed under the MIT license.
-
----
-
-⭐️ Star this repo if you like it!
